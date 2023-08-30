@@ -8,7 +8,7 @@ function setup() {
     noStroke();
     if(mouseIsPressed)
     {
-      fill("blue");
+      fill("red");
     circle(mouseX,mouseY,10);
     }
   }
